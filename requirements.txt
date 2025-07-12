@@ -1,5 +1,5 @@
 streamlit
-pandas>=2.2.0,<3.0.0
+pandas
 plotly
 pycaret==3.2.0
 scikit-learn
